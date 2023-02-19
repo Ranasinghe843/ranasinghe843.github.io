@@ -1,12 +1,12 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "About Adhitha Dias"
+excerpt: "About Samitha Ranasinghe"
 last_modified_at: 2020-10-27T15:46:43-04:00
 toc: true
 ---
 
-Email: kadhitha [AT] purdue [DOT] edu
+Email: sranasi [AT] purdue [DOT] edu
 {: .text-justify}
 
 
