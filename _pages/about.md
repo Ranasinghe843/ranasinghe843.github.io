@@ -10,30 +10,16 @@ Email: sranasi [AT] purdue [DOT] edu
 {: .text-justify}
 
 
-<span style="color:blue">*I am currently looking for internship opportunities, for summer 2023, related to compilers, programming languages and high-performance computing, preferably research-oriented. Email: kadhitha@purdue.edu*</span>
+<span style="color:blue">*I am currently looking for internship opportunities, for summer and fall 2023, in software engineering and machine learning. Email: sranasi@purdue.edu*</span>
 
-I am Adhitha Dias, a graduate student at Purdue ECE, working with [Prof. Milind Kulkarni]({{"https://engineering.purdue.edu/~milind/"}}). I am broadly interested in systems, compilers and high performance computing. My current research focuses on optimized code generation for sparse tensor algebraic operations.
-
-I received my Honors Degree of Bachelor of Science Honors in Engineering (B.Sc.(Hons.) in Engineering) from University of Moratuwa,
-where I completed my thesis on Deep Learning through Augmented Reality Based User Interaction for Collaborative Automation under the advisement of
-[Dr. Ranga Rodrigo]({{"https://ranga.staff.uom.lk/"}}).
+I am a junior in Computer Engineering with a passion for Machine Learning and Software Development. I have worked hard to create a diverse skillset ranging from ML model implementation, and embedded programming, to software testing automation and robotics algorithms & simulations. These programming skills are further complemented by my hands-on skills in CAD & PCB designing, 3D printing, and from my experiences with restoring a car from the 1970s and being part of a Grand Prix racing team. This combination of computer, electrical, and mechanical skills allows me to understand products/projects from various aspects at the system level and to use that knowledge to improve my work for better integration with all components of a project.
 {: .text-justify}
 
-During my undergrad, I did an internship at LiveLabs Urban Lifestyle Innovation Platform, School of Information Systems, Singapore Management University with the
-supervision of 
-[Prof. Jie Xiong]({{"https://scholar.google.com/citations?user=GR9VzaMAAAAJ&hl=en"}}) and
-[Prof. Youngki Lee]({{"https://scholar.google.com/citations?user=qhKU0oMAAAAJ&hl=en"}}) on Human Computer Interaction and wifi based indoor localization using direction of arrival estimation techniques.
+All of my projects as described in my profile have started with me having minimal knowledge of the respective areas, but I have achieved excellence through determination and perseverance. I enjoy working on projects that challenge my skills and help me grow as an engineer. I am a quick learner, and my debugging and analytical skills have helped me resolve problems with innovative solutions to bring my ideas to life.
 {: .text-justify}
 
-Upon graduation, before starting my graduate studies, I worked as a Software Engineer at Sysco LABS, Sri Lanka where we developed and maintained applications for Sysco Corporation, USA.
-{: .text-justify}
-
-[Resume]({{ "/assets/pdf/resume.pdf" | relative_url }}) &nbsp; &nbsp; 
-[CV]({{ "/assets/pdf/adhitha_dias_cv.pdf" | relative_url }}) &nbsp; &nbsp; 
-[SOP (Outdated)]({{ "/assets/pdf/Adhitha_Dias_SOP.pdf" | relative_url }}) &nbsp; &nbsp; 
-[Transcript (Grad)]({{ "/assets/pdf/adhitha_dias_grad_transcript.pdf" | relative_url }}) &nbsp; &nbsp; 
-[Transcript (Undergrad)]({{ "/assets/pdf/Adhitha_Dias_Transcript.pdf" | relative_url }}) &nbsp; &nbsp;
-[Service Letter (Sysco)]({{ "/assets/pdf/service_letter_adhitha_dias.pdf" | relative_url }}) &nbsp; &nbsp;
+[Resume]({{ "/assets/pdf/samitha_ranasinghe_resume.pdf" | relative_url }}) &nbsp; &nbsp;
+[Transcript]({{ "/assets/pdf/samitha_ranasinghe_transcript.pdf" | relative_url }}) &nbsp; &nbsp;
 {: .text-left}
 
 

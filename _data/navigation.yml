@@ -10,9 +10,9 @@ main:
     url: /experience/
   - title: "Achievements"
     url: /achievements/
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Robots"
+  #- title: "Posts"
+  #  url: /year-archive/
+  - title: "Projects"
     url: /portfolio/
   # - title: "Collections"
   #   url: /collection-archive/
